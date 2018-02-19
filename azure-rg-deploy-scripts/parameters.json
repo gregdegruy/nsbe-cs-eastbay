@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_myVM_name": {
+            "value": null
+        },
+        "virtualNetworks_myVMVNET_name": {
+            "value": null
+        },
+        "networkInterfaces_myVMVMNic_name": {
+            "value": null
+        },
+        "networkSecurityGroups_myVMNSG_name": {
+            "value": null
+        },
+        "publicIPAddresses_myVMPublicIP_name": {
+            "value": null
+        },
+        "images_myVM_image_20180218132726_name": {
+            "value": null
+        },
+        "subnets_myVMSubnet_name": {
+            "value": null
+        },
+        "extensions_enablevmaccess_name": {
+            "value": null
+        },
+        "securityRules_rdp_name": {
+            "value": null
+        },
+        "securityRules_open_port_80_name": {
+            "value": null
+        },
+        "images_myVM_image_20180218132726_id": {
+            "value": null
+        },
+        "virtualMachines_myVM_id": {
+            "value": null
+        }
+    }
+}
