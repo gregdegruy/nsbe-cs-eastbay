@@ -4,7 +4,7 @@
 Doing the thang with Python and Tweepy. Collecting tweet data on Black influencers in nerd culture.
 
 # How it works
-Coming soon...
+Put the name of the twitter account in the app and boom you got a cool app!
 
 <p align="center"><img src="imgs/md/demo.gif" width="1000"></p>
 
