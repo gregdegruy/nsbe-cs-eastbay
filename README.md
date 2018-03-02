@@ -17,3 +17,4 @@ Put the name of the twitter account in the app and boom you got a cool app!
 - [Twitter keys and app registeration](https://apps.twitter.com/)
 - [Tweepy Python library](https://github.com/tweepy/tweepy)
 - [Windows 10 icons](https://graphicburger.com/200-windows-10-icons/)
+- [GitHub icons](https://gist.github.com/rxaviers/7360908)
