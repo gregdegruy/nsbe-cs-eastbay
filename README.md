@@ -10,4 +10,6 @@ Awesome description
 | Items 1 - 10 Common language expressions. Building blocks for algorithims and types. Important even in managed environments. | Items 11 - 17. Performance testing and requirements check. | Items 18 - 28. Replaces `System.Object` and `cast`. Great programming expression. | Items 29 - 44.  How the compiler maps query to methods. Delegates and expression tress too. | Items 45 - 50. Debuawg like a 1337 elite haxor BOSS. |
 
 # References
+- [Get Twitter keys](https://apps.twitter.com/)
+- [Tweepy](https://github.com/tweepy/tweepy)
 - [Put 'em here](https://graphicburger.com/200-windows-10-icons/)

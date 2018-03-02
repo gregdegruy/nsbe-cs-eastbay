@@ -1,0 +1,22 @@
+import tweepy
+import time
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
+
+api = tweepy.API(auth)
+
+public_tweets = api.home_timeline()
+for tweet in public_tweets:
+    print tweet.text
+
+for number in range(0, 10):
+    time.sleep(0.2)
+    print "ON TO THE NEXT ONE"
+
+user = api.get_user("BlackNerd")
+
+print user.screen_name
+print user.followers_count
+for friend in user.friends():
+   print friend.screen_name
