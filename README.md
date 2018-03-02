@@ -1,15 +1,19 @@
+<p align="center"><img src="imgs/md/tchalla.png" width="128"></p>
 
-<img src="imgs/md/user.svg">
+# East Bay NSBE Programming Language Exercises
+Doing the thang with Python and Tweepy. Collecting tweet data on Black influencers in nerd culture.
 
-# East Bay NSBE Java Exercises
-Awesome description
+# How it works
+Coming soon...
+
+<p align="center"><img src="imgs/md/demo.gif" width="1000"></p>
 
 # Concepts
-| <p align="center"><img src="imgs/md/code-file.svg" width="64"></p> [C# Language Idioms](Assets/HoloToolkit/Input/README.md) | <p align="center"><img src="imgs/md/resources.svg" width="64"></p> [.NET Resource Management](Assets/HoloToolkit/Sharing/README.md) | <p align="center"><img src="imgs/md/generics.svg" width="64"></p> [Generics](Assets/HoloToolkit/SpatialMapping/README.md) | <p align="center"><img src="imgs/md/linq.svg" width="64"></p> [LINQ](Assets/HoloToolkit/SpatialUnderstanding/README.md) | <p align="center"><img src="imgs/md/exception.svg" width="64"></p> [Exceptions Practices](Assets/HoloToolkit/SpatialUnderstanding/README.md) |
-| :- | :- | :- | :- | :- |
-| Items 1 - 10 Common language expressions. Building blocks for algorithims and types. Important even in managed environments. | Items 11 - 17. Performance testing and requirements check. | Items 18 - 28. Replaces `System.Object` and `cast`. Great programming expression. | Items 29 - 44.  How the compiler maps query to methods. Delegates and expression tress too. | Items 45 - 50. Debuawg like a 1337 elite haxor BOSS. |
+| <p align="center"><img src="imgs/md/code-file.svg" width="64"></p> [Programming Language](Assets/HoloToolkit/Input/README.md) | <p align="center"><img src="imgs/md/resources.svg" width="64"></p> [Data](Assets/HoloToolkit/Sharing/README.md) | <p align="center"><img src="imgs/md/generics.svg" width="64"></p> [API](Assets/HoloToolkit/SpatialMapping/README.md) | <p align="center"><img src="imgs/md/linq.svg" width="64"></p> [Virutal Machine](Assets/HoloToolkit/SpatialUnderstanding/README.md)
+| :- | :- | :- | :- |
+| What computers speak. | Worlds information. | Application Programming Interface. | Simulated development environments. |
 
 # References
-- [Get Twitter keys](https://apps.twitter.com/)
-- [Tweepy](https://github.com/tweepy/tweepy)
-- [Put 'em here](https://graphicburger.com/200-windows-10-icons/)
+- [Twitter keys and app registeration](https://apps.twitter.com/)
+- [Tweepy Python library](https://github.com/tweepy/tweepy)
+- [Windows 10 icons](https://graphicburger.com/200-windows-10-icons/)
