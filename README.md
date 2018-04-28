@@ -12,20 +12,20 @@ Make a project at [REPL IT](https://repl.it/), install tweepy and dotenv optiona
 # How it works Locally on your computer
 
 Make a virtual environment and activate it
-```python
+```
 virtualenv venv
 venv\Scripts\activate
 ```
 
 Install dependencies from my requirements.txt using [pip](https://packaging.python.org/tutorials/installing-packages/#ensure-you-can-run-pip-from-the-command-line)
-```python
+```
 pip install -r requirements.txt
 ```
 
 Rename .example-env to .env and add your [Twitter keys](https://apps.twitter.com/) to it.
 
 Run the code
-```python
+```
 python .\hellotweepy.py
 ```
 
